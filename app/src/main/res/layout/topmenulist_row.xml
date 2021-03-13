@@ -15,7 +15,7 @@
             android:elevation="12dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:hint="categories"
+            android:hint="@string/txtvw5"
             android:id="@+id/ChatCategorie"/>
 
     </LinearLayout>
