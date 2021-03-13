@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">messenger</string>
+    <string name="MainToolbarTitle">Chats</string>
+    <string name="txtvw1">Username</string>
+    <string name="txtvw2">10 min</string>
+    <string name="txtvw3">Lorem impsun dolor sit amet</string>
+    <string name="txtvw4">8</string>
+</resources>
